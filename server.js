@@ -72,7 +72,7 @@ app.get('/success', async (req, res) => {
             <html>
                 <body>
                     <p style='display: block;font-family: monospace;margin: 1em 0px;' >
-                        Thanks for your order, ${customer.name}! <a href='${process.env.SERVER_URL}/dashboard' >Dashboard</a>
+                        Thanks for your order, ${customer.name}! <a href='http://localhost:3000/dashboard' >Dashboard</a>
                     </p>
                 </body>
             </html>`);
@@ -99,7 +99,7 @@ app.get('/success', async (req, res) => {
             <html>
                 <body>
                     <p style='display: block;font-family: monospace;margin: 1em 0px;' >
-                        Youre order was canceled, <a href='${process.env.SERVER_URL}/dashboard' >Dashboard</a>
+                        Youre order was canceled, <a href='http://localhost:3000/dashboard' >Dashboard</a>
                     </p>
                 </body>
             </html>`);
