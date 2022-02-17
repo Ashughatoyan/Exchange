@@ -8,3 +8,5 @@ Artak Ashughatoyan - was a project leader worked on About, buy, contact, dashboa
 for Stripe system integration use Node.js;
 worked on connection to firebase Realtime Database and Authentication;
 worked on all the problems that were in the project
+
+Demo video is also on github
