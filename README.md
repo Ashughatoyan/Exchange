@@ -11,4 +11,4 @@ it contains:
 
 This repository contains a version of CONVEX that was still in development, but for the presentation of my skills to visitors from UpWork, it is completely sufficient. So don't pay attention to the file structure in the project cause it changed to the final version of the product.
 
-## You can just look at the demo.mov file, where you will see how the application works with the stripe system and stores user records in the database.
+## You can just download and watch demo.mov videorecord, where you will see how the application works with the stripe system and stores user records in the database.
